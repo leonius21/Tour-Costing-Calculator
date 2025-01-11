@@ -44,7 +44,7 @@ The application then calculates the total estimated cost of the tour and provide
 ### Installation
 
 1.  Clone the repository:
-   ```bash git clone https://github.com/leonius21/ Tour- Costing- Calculator. git```
+   ```bash git clone https://github.com/leonius21/ Tour-Costing-Calculator.git```
 2.  Open the project in Android Studio.
 3.  Wait for Gradle to sync and download dependencies.
 4.  Build and run the application on an emulator or a physical device.
