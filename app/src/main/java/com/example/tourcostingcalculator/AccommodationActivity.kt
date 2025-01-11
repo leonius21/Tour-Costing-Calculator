@@ -120,7 +120,7 @@ class AccommodationActivity : AppCompatActivity() {
         }
 
         if (!isValid) {
-            return // Don't proceed if there are errors
+            return
         }
 
         val cost = unit!! * day!! * pricePerUnit!!
